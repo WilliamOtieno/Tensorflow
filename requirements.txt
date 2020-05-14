@@ -1,0 +1,6 @@
+tensorflow-gpu
+seaborn
+git+https://github.com/tensorflow/docs
+numpy
+pandas
+matplotlib
