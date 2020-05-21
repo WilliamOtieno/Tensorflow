@@ -1,6 +1,9 @@
 tensorflow-gpu
+tensorflow_datasets
 seaborn
 git+https://github.com/tensorflow/docs
 numpy
 pandas
 matplotlib
+pyyaml
+h5py
